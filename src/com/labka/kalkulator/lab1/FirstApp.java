@@ -7,6 +7,6 @@ public class FirstApp {
 
 
     public static void main(String[] args) {
-        System.out.println( 3 + 4 + 1 + 5 + 2 );
+        System.out.println( 3 + 4 + 6 + 5 + 7 + 8 + 9 );
     }
 }
